@@ -31,3 +31,12 @@ const myFunction = function(){
 }
 
 console.log(typeof myFunction);
+
+
+
+
+// ++++++++++++++
+
+// stack (Primitive) , Heap(Non-Primitive)
+// stack me copy pass hota hai lakin  heap me reference address pass hota hai
+   
